@@ -16,7 +16,9 @@ body {
   .card {
     height: 100%;
   }
-
+.img-fluid rounded-circle {
+  border-radius: 50%;
+}
   /*!
    * Copyright 2018 Trilogy Education
    */
